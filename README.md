@@ -3,7 +3,7 @@ This repository is for research, work, and results from my project on developing
 
 The reaserch folder holds all the notes that I used during the project to generate my Intoduction to Scrum for DigiPen Teams. My research mainly consisted of
   - Notes taken from Management 451 at DigiPen
-  - Q&A Sessions with Professor Christien Overton about how Scrum can be adjusted for Game classes
+  - Q&A Sessions with Professor Christin Overton about how Scrum can be adjusted for Game classes
   - Speaking with other teams about:
     - How they implemented Scrum
     - Aspects that they did and did not like
